@@ -3,13 +3,21 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/ChatFrame.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/EjemploJEditorPaneHtml.java</file>
             <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/Chat.java</file>
-            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/practica3_chatmulticast/Practica3_ChatMulticast.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/RecibirImagen.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/HTMLpane.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/desktop.ini</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/Enviar.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/Object_File/FileObj.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/Unicode.java</file>
             <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/EnviarImagen.java</file>
-            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/practica3_chatmulticast/VentanaCliente.java</file>
-            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/practica3_chatmulticast/Servidor.java</file>
-            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/practica3_chatmulticast/RecibeMensaje_Worker.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/ChatFrame.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/Recibir.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/Mensaje.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/emoji.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/ChatPrivado_Frame.java</file>
+            <file>file:/C:/Users/HeadHunters/Desktop/Documents/GitHub/ACR/ChatMulticast/src/graphic/emojis.java</file>
         </group>
     </open-files>
 </project-private>
